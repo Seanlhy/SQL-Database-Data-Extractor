@@ -1,0 +1,63 @@
+1	Sybex
+2	McGraw-Hill Osborne Media
+3	John Wiley & Sons
+4	Morgan Kaufmann
+5	Schmidt Ink, Inc.
+6	Addison-Wesley Pub Co
+7	Macromedia Press
+8	Addison-Wesley Publishing
+9	Wrox Press Inc
+10	Berkley Pub Group
+11	Penguin USA
+12	O'Reilly & Associates
+13	McGraw-Hill Trade
+14	Picador
+15	St. Martin's Press
+16	Crown Pub
+17	Little Brown & Company
+18	Simon & Schuster
+19	HarperCollins
+20	Jossey-Bass
+21	Multnomah Publishers Inc.
+22	Perennial
+23	Dell Pub Co
+24	Harlequin
+25	Viking Press
+26	Perseus Publishing
+27	Random House
+28	Knopf
+29	Wolfram Media, Inc.
+30	Fireside
+31	Random House Trade Paperbacks
+32	Gibbs Smith Publisher
+33	Taunton Pr
+34	Vendome Pr
+35	Clarkson N. Potter
+36	MIT Press
+37	McGraw-Hill/Irwin
+38	South-Western College Pub
+39	Prentice Hall
+40	Warner Books
+41	Scribner
+42	Pocket Books
+43	Pantheon Books
+44	Del Rey
+45	Doubleday
+46	Donald M. Grant Publisher, Inc.
+47	Vintage Books
+48	Scribner Paperback Fiction
+49	Harvest Books
+50	Harperperennial Library
+51	W.W. Norton & Company
+52	Harvard Univ Pr
+53	Prentice Hall PTR
+54	New Riders Publishing
+55	Ballantine Books
+56	Back Bay Books
+57	Anchor Books
+58	Putnam Pub Group
+59	Silhouette
+60	Lark Books
+61	Harper
+62	Random House Books for Young Readers
+63	Dover

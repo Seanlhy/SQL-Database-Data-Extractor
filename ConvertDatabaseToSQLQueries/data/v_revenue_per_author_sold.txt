@@ -1,0 +1,18 @@
+Gerald Carter	83
+Ken Coffman	50
+Scott Kelby	39.95
+Brian Knight	34.99
+Paul DuBois	34.99
+Steven Pinker	33.2
+B. J. Fogg	29.99
+Dr. Seuss	26.09
+Stephen Wolfram	22
+Michael Romkey	19.95
+Bill Mann	17.49
+Matthew Delaney	17.47
+Karen Marie Moning	13.95
+Ann Patchett	13
+Ian McEwan	11.95
+Bernie Wrightson	7.99
+Stephen King	7.99
+Nicholas Sparks	6.99

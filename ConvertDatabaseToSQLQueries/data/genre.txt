@@ -1,0 +1,113 @@
+7324537	Children's
+38572179	Literature & Fiction
+60502935	Fantasy
+60540753	Romance
+60855925	Fantasy
+60934417	Romance
+60958332	Science
+60958405	Science
+61020648	Fantasy
+61020656	Fantasy
+61092177	Fantasy
+61161721	Fantasy
+66214750	Literature & Fiction
+67463442	Science
+67976867	Science
+71414339	Accounting & Finance
+72222743	Computer
+72227710	Computer
+72227885	Computer
+72294337	Accounting & Finance
+72315318	Accounting & Finance
+130323519	Accounting & Finance
+130998516	Computer
+140077022	Literature & Fiction
+142001740	Literature & Fiction
+156006219	Romance
+156158648	Home Design
+201615762	Computer
+262024829	Accounting & Finance
+262232197	Accounting & Finance
+262521415	Accounting & Finance
+312243022	Literature & Fiction
+312276702	Horror
+312287941	Literature & Fiction
+312311354	Literature & Fiction
+316096199	Literature & Fiction
+316307866	Literature & Fiction
+316602051	Literature & Fiction
+316666343	Literature & Fiction
+321125169	Computer
+324107501	Accounting & Finance
+324113641	Accounting & Finance
+345336895	Science
+345376595	Science
+345409469	Science
+345452089	Horror
+373218192	Literature & Fiction
+373218257	Literature & Fiction
+373272839	Romance
+375508325	Science
+375703764	Horror
+385494149	Literature & Fiction
+385494246	Literature & Fiction
+385494327	Literature & Fiction
+385504470	Horror
+393318486	Science
+393319407	Science
+394739698	Home Design
+394800788	Children's
+399149392	Literature & Fiction
+399149848	Literature & Fiction
+425188361	Literature & Fiction
+440237556	Romance
+446527793	Literature & Fiction
+446606812	Literature & Fiction
+446608955	Literature & Fiction
+446676098	Literature & Fiction
+471200247	Computer
+471286168	Home Design
+471288217	Home Design
+471358983	Home Design
+471363049	Accounting & Finance
+471391123	Accounting & Finance
+517576600	Home Design
+596004478	Computer
+609610570	Reference
+670031518	Science
+671004107	Science
+679450785	Science
+679722955	Literature & Fiction
+684843285	Science
+684848155	Literature & Fiction
+735712123	Computer
+735712360	Computer
+735712379	Computer
+735713170	Computer
+738206679	Science
+743206061	Accounting & Finance
+743206061	Literature & Fiction
+743222008	Literature & Fiction
+743244249	Literature & Fiction
+743455967	Horror
+743457358	Horror
+743467523	Horror
+782140114	Computer
+782140661	Computer
+787960756	Accounting & Finance
+805317554	Computer
+865659982	Home Design
+972263608	Computer
+1558605525	Computer
+1558606432	Computer
+1561584029	Home Design
+1561586196	Home Design
+1565924916	Computer
+1579550088	Science
+1579902944	Home Design
+1586851322	Home Design
+1586851357	Home Design
+1590520734	Romance
+1861004486	Computer
+1880418568	Horror
+754290387	Children's

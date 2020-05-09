@@ -1,0 +1,115 @@
+7324537	The Cat In The Hat	9.45	62	1957
+38572179	Atonement	11.95	57	2003
+60502935	Going Postal	7.99	61	2005
+60540753	Patron Saint of Liars	13	50	2003
+60855925	The Color of Magic	7.99	61	2005
+60934417	Bel Canto: A Novel	12.99	22	2002
+60958332	The Language Instinct: How the Mind Creates Language	17.95	22	2000
+60958405	Words and Rules: The Ingredients of Language	10.5	22	2000
+61020648	Guards! Guards!	13.99	61	2001
+61020656	Pyramids	7.99	61	2001
+61092177	Small Gods	19.95	61	1994
+61161721	Unseen Academicals	7.99	61	2010
+66214750	Twelve Times Blessed	25.95	19	2003
+67463442	On Human Nature	16.95	52	1988
+67976867	Consilience: The Unity of Knowledge	26	27	1999
+71414339	Investing in Fixer-Uppers : A Complete Guide to Buying Low, Fixing Smart, Adding Value, and Selling (or Renting) High	18.95	13	2003
+72222743	A+ Certification All-in-One Exam Guide	34.95	2	2002
+72227710	How To Do Everything with Your Tablet PC	17.49	2	2003
+72227885	SQL Server 2000 for Experienced DBA's	34.99	2	2003
+72294337	Financial Markets & Corporate Strategy	70	37	2001
+72315318	Analysis for Financial Management	122.5	37	2000
+130323519	Financial Reporting and Analysis	139.2	39	2001
+130998516	Real World FPGA Design with Verilog	50	53	1999
+140077022	White Noise	7.99	11	1991
+142001740	The Secret Life of Bees	14	11	2003
+156006219	The Magician's Assistant	39.95	49	1998
+156158648	The New City Home: Smart Solutions for Metro Living	60	33	2003
+201615762	The Guru's Guide to Transact-SQL	38.49	6	2000
+262024829	Financial Modeling	50	36	2000
+262232197	Econometric Analysis of Cross Section and Panel Data	35	36	2001
+262521415	Numerical Techniques in Finance	7.5	36	1989
+312243022	The Hours	3.44	14	2000
+312276702	Jinn: A Novel	17.47	15	2003
+312287941	The Girl in the Red Coat: A Memoir	25.95	15	2002
+312311354	The Pianist	13	14	2003
+316096199	Lucky: A Memoir	21.95	56	2002
+316307866	Shining Sea	12.63	56	2017
+316602051	The Jester	27.95	17	2003
+316666343	The Lovely Bones: A Novel	12.95	17	2002
+321125169	ColdFusion MX Web Application Construction Kit	38.49	7	2002
+324107501	Advanced Accounting	79.2	38	2001
+324113641	Introductory Econometrics: A Modern Approach	74.95	38	2002
+345336895	Broca's Brain: Reflections on the Romance of Science	35	55	1993
+345376595	Pale Blue Dot: A Vision of the Human Future in Space	7.99	55	1997
+345409469	The Demon-Haunted World: Science As a Candle in the Dark	59.99	55	1997
+345452089	The Vampire's Violin	19.95	44	2003
+373218192	Engaging The Enemy	25.95	59	2003
+373218257	Love By Design	7.5	24	2003
+373272839	Letters to Kelly	6.99	24	2003
+375508325	Cosmos	14.95	27	2002
+375703764	House of Leaves	7.99	43	2000
+385494149	Enduring Love	14	57	1999
+385494246	Amsterdam	14	57	1999
+385494327	Black Dogs	12	57	1999
+385504470	Lullaby: A Novel	6.99	45	2002
+393318486	How the Mind Works	13.95	51	1999
+393319407	The Diversity of Life	15	51	1999
+394739698	A Field Guide to American Houses	40	31	1984
+394800788	Horton Hears A Who	8.53	62	1954
+399149392	Chesapeake Blue	14.95	58	2002
+399149848	Birthright	13	58	2003
+425188361	Cerulean Sins	16.07	10	2003
+440237556	The Dark Highlander	13.95	23	2002
+446527793	The Guardian	126.67	40	2003
+446606812	Message in a Bottle	12.95	40	1999
+446608955	A Walk to Remember	18.95	40	2000
+446676098	The Notebook	6.99	40	1999
+471200247	The Data Warehouse Toolkit: The Complete Guide to Dimensional Modeling	50	3	2002
+471286168	Architecture: Form, Space, and Order	16	3	1996
+471288217	A Visual Dictionary of Architecture	39.95	3	1996
+471358983	Building Construction Illustrated	22	3	2000
+471363049	Intermediate Accounting	112.95	3	2001
+471391123	Beyond Coso : Internal Control to Enhance Corporate Governance	107.95	3	2000
+486400778	The Adventures Of Tom Sawyer	4.99	63	1998
+517576600	Color: Natural Palettes for Painted Rooms	50	35	1992
+596004478	Google Hacks	24.95	12	2003
+609610570	Execution: The Discipline of Getting Things Done	27.5	16	2002
+670031518	The Blank Slate: The Modern Denial of Human Nature	4.75	25	2002
+671004107	Contact	6.99	42	1997
+679450785	The Future of Life	15	28	2002
+679722955	The Names	14	47	1989
+684843285	ON FOOD AND COOKING	44.95	30	1997
+684848155	UNDERWORLD: A NOVEL	11.2	48	1998
+735712123	MySQL	34.99	8	2003
+735712360	The Photoshop Book for Digital Photographers	39.95	54	2003
+735712379	Photoshop 7 Down & Dirty Tricks	39.99	54	2002
+735713170	Mac OS X v. 10.2 Jaguar Killer Tips	39.99	54	2002
+738206679	Linked: The New Science of Networks	27.95	26	2002
+743206061	The Second Time Around	24.95	18	2003
+743222008	The Vanished Man: A Lincoln Rhyme Novel	25	18	2003
+743244249	Cosmopolis: A Novel	26	41	2003
+743455967	On Writing	35	42	2002
+743457358	Everything's Eventual: 14 Dark Tales	24.95	42	2002
+743467523	Dreamcatcher	25	42	2003
+782140114	Access 2002 Developer's Handbook Set	69.99	1	2001
+782140661	OCP: Oracle9i Certification Kit	104.97	1	2002
+787960756	The Five Dysfunctions of a Team: A Leadership Fable	13.2	20	2002
+805317554	Fundamentals of Database Systems	95	8	1999
+865659982	Composers' Houses	24.95	34	1998
+972263608	Creating Documents with BusinessObjects 5.1	99	5	2002
+1558605525	Data Mining: Practical Machine Learning Tools and Techniques with Java Implementations	49.95	4	1999
+1558606432	Persuasive Technology: Using Computers to Change What We Think and Do	29.99	4	2002
+1561584029	The Complete Illustrated Guide to Furniture and Cabinet Construction	25.95	33	2001
+1561586196	Building a Shed	19.95	33	2003
+1565924916	Ldap System Administration	83	12	2003
+1579550088	A New Kind of Science	22	29	2002
+1579902944	Choosing & Using Hand Tools	39.95	60	2002
+1586851322	Prefab	24.95	32	2002
+1586851357	Cabins & Camps	39.95	32	2002
+1590520734	The Rescuer: The O'Malley Series	26	21	2003
+1861004486	Professional SQL Server 2000 Programming	41.99	9	2000
+1880418568	Wolves of the Calla	7.99	46	2003
+366625561	One Fish, Two Fish, Red Fish, Blue Fish	8.78	62	1960
+754290387	The Lorax	11.89	62	1971
+845747623	Adventures Of Huckleberry Finn	7.99	63	1994

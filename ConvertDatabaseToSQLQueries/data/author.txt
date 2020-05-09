@@ -1,0 +1,104 @@
+1	Chip Dawes
+2	Biju Thomas
+3	Doug Stuns
+4	Matthew Weishan
+5	Joseph C. Johnson
+6	Brian Knight
+7	Ralph Kimball
+8	Margy Ross
+9	Bill Mann
+10	Ian H. Witten
+11	Eibe Frank
+12	Robert D. Schmidt
+13	Ken Henderson
+14	Paul Litwin
+15	Ken Getz
+16	Mike Gunderloy
+17	Ben Forta
+18	Nate Weiss
+19	Leon Chalnick
+20	Angela C. Buraglia
+21	Ramez A. Elmasri
+22	Shamkant B. Navathe
+23	Rob Vieira
+24	Paul DuBois
+25	Laurell K. Hamilton
+26	Sue Monk Kidd
+27	Tara Calishain
+28	Rael Dornfest
+29	Jay P. Decima
+30	Wladyslaw Szpilman
+31	Roma Ligocka
+32	Michael Cunningham
+33	Larry Bossidy
+34	Ram Charan
+35	Charles Burck
+36	James Patterson
+37	Andrew Gross
+38	Jeffery Deaver
+39	Jacquelyn Mitchard
+40	Patrick Lencioni
+41	Mary Higgins Clark
+42	Dee Henderson
+43	Ann Patchett
+44	Karen Marie Moning
+45	Suzanne Brockmann
+46	Steven Pinker
+47	Albert-L√°szl√≥ Barab√°si
+48	Edward Osborne Wilson
+49	Stephen Wolfram
+50	Harold McGee
+51	Francis D. K. Ching
+52	Cassandra Adams
+53	Virginia McAlester
+54	Lee McAlester
+55	Bryan Burkhart
+56	Allison Arieff
+57	Ralph R. Kylloe
+58	Leslie Plummer Clagett
+59	Gerard Gefen
+60	Christine Bastin
+61	Jacques Evrard
+62	Donald Kaufman
+63	Taffy Dahl
+64	Laurel Graeber
+65	Tina Freeman
+66	Simon Benninga
+67	Benjamin Czaczkes
+68	Mark Grinblatt
+69	Sheridan Titman
+70	Robert C. Higgins
+71	Paul Marcus Fischer
+72	William James Taylor
+73	Rita Hartung Cheng
+74	Donald E. Kieso
+75	Jerry J. Weygandt
+76	Terry D. Warfield
+77	Lawrence Revsine
+78	Daniel W. Collins
+79	W. Bruce Johnson
+80	Nicholas Sparks
+81	Don DeLillo
+82	Stephen King
+83	Mark Z. Danielewski
+84	Michael Romkey
+85	Chuck Palahniuk
+86	Matthew Delaney
+87	Bernie Wrightson
+88	Jeffrey M. Wooldridge
+89	Steven J. Root
+90	Ken Coffman
+91	Gerald Carter
+92	Scott Kelby
+93	B. J. Fogg
+94	Michael Meyers
+95	Carl Sagan
+96	Alice Sebold
+97	Ian McEwan
+98	Nora Roberts
+99	Andy Rae
+100	Joseph Truini
+101	Terry Pratchett
+102	Dr. Seuss
+103	Anne Korkeakivi
+104	Mark Twain
